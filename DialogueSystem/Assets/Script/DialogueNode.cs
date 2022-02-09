@@ -9,8 +9,8 @@ namespace Dialogue
     {
         public string uniqueID;
         public string text;
-        public string[] children;
-        public Rect position;
+        public List<string> children = new List<string>();
+        public Rect rect = new Rect(0, 0, 400, 100);
     }
 }
 

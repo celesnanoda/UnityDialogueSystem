@@ -14,38 +14,49 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodes:
   - uniqueID: A
-    text: asdhjjskdjwnqjwkq
-    children: []
-    position:
+    text: Hello
+    children:
+    - B
+    rect:
       serializedVersion: 2
-      x: 0
-      y: 10
-      width: 200
-      height: 600
-  - uniqueID: asdasdsada
-    text: Come Here
-    children: []
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 60
-      width: 200
-      height: 200
-  - uniqueID: qweqwe
-    text: qwe
-    children: []
-    position:
-      serializedVersion: 2
-      x: 0
-      y: 100
-      width: 200
-      height: 300
-  - uniqueID: asdasxzx
-    text: qwwq
-    children: []
-    position:
-      serializedVersion: 2
-      x: 50
+      x: 134
       y: 150
-      width: 200
+      width: 400
       height: 200
+  - uniqueID: B
+    text: Come Here
+    children:
+    - 67b7c971-347c-4e8c-9980-beabb6698cf7
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 460
+      width: 400
+      height: 100
+  - uniqueID: c0f84988-e35d-4282-9353-487cdadbfc71
+    text: 
+    children: []
+    rect:
+      serializedVersion: 2
+      x: 603
+      y: 38
+      width: 400
+      height: 100
+  - uniqueID: 12b5c4da-94e2-4d31-a88c-6a4af4e07a49
+    text: 
+    children: []
+    rect:
+      serializedVersion: 2
+      x: 903
+      y: 258
+      width: 400
+      height: 100
+  - uniqueID: 67b7c971-347c-4e8c-9980-beabb6698cf7
+    text: 
+    children: []
+    rect:
+      serializedVersion: 2
+      x: 441
+      y: 692
+      width: 400
+      height: 100
