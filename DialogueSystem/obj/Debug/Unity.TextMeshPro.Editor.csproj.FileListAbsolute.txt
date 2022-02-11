@@ -1,0 +1,2 @@
+D:\Unity Programming\Dialogue\DialogueSystem\obj\Debug\Unity.TextMeshPro.Editor.csproj.AssemblyReference.cache
+D:\Unity Programming\Dialogue\DialogueSystem\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache

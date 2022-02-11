@@ -1,0 +1,2 @@
+D:\Unity Programming\Dialogue\DialogueSystem\obj\Debug\Unity.Rider.Editor.csproj.AssemblyReference.cache
+D:\Unity Programming\Dialogue\DialogueSystem\obj\Debug\Unity.Rider.Editor.csproj.CoreCompileInputs.cache

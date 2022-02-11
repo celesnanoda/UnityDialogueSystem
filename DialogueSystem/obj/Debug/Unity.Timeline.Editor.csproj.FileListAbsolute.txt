@@ -1,0 +1,2 @@
+D:\Unity Programming\Dialogue\DialogueSystem\obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
+D:\Unity Programming\Dialogue\DialogueSystem\obj\Debug\Unity.Timeline.Editor.csproj.CoreCompileInputs.cache
